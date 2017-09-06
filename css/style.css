@@ -1,0 +1,451 @@
+.header {
+	background: #1c1c1c;
+	padding: 10px 0 5px 0;
+}
+.header p {
+	color: #dedddd;
+	font-family: 'PT Sans', sans-serif;
+	padding-top: 5px;
+	font-size: 12px;
+}
+.contacts a { 
+	color: #dedddd;
+	padding-left: 10px;
+	font-size: 12px;
+	font-family: 'PT Sans', sans-serif;
+}
+.contacts img {
+	padding-right: 5px;
+}
+.logotype h1 { 
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+.logotype span {
+	font-size: 10px;
+	text-transform: capitalize;
+}
+.navbar-default {
+    background-color: transparent;
+    border: none; 
+}
+.menu ul li:last-child a {
+	margin-left: 25px;
+	background: #3aa7e8;
+	padding: 10px 20px;
+	border-radius: 20px;
+	margin-top: 4px;
+	color: #fff;
+	font-weight: bold;
+}
+.men a {
+	font-weight: bold;
+}
+.menu {
+	padding-top: 10px;
+}
+.menu ul li:last-child a:hover {
+	background: #fff;
+	color: #3aa7e8;
+}
+.carus {
+    text-align: left;
+    top: 20%;
+    line-height: 1.7;
+}
+.carus h3 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 25px;
+}
+.blu {
+	color: #3aa7e8;
+}
+.carus p {
+	font-size: 10px;
+}
+.butto {
+	background: #3aa7e8;
+	border: #3aa7e8;
+	color: #fff;
+	border-radius: 20px;
+	font-weight: bold;
+	padding: 10px 15px; 
+	margin-left: 5px;
+	text-transform: uppercase;
+}
+.butto:hover {
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+}
+.about-finance {
+	padding-bottom: 30px;
+}
+.about-finance a {
+	color: #000;
+}
+.advisoru {
+    text-align: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+.advisoru h3 {
+    font-weight: bold;
+}
+.about-expert, 
+.our-mission {
+    padding: 20px 0;
+    border-bottom: 1px solid lightgray;
+}
+.our-mission p, 
+.block p {
+	padding-top: 15px;
+}
+.about-expert a, 
+.our-mission a, 
+.our-goals a {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.our-goals {
+	padding: 20px 0;
+}
+a.righte {
+    float: right;
+    border: 1px solid;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+a.righ {
+	float: right;
+    border: 1px solid;
+    padding: 5px 12px;
+    text-decoration: none;
+}
+.about-expert a:hover {
+	color:  #3aa7e8;
+}
+.our-mission a:hover {
+	color: #3aa7e8;
+} 
+.our-goals a:hover {
+	color:  #3aa7e8;;
+}
+.block {
+    padding: 20px 0;
+    line-height: 1.8;
+}
+.block img {
+	padding-right: 15px;
+}
+.block a { 
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.number {
+	background: url(../img/black.jpg) no-repeat;
+	width: 100%;
+	height: 200px;
+}
+.results {
+    padding: 50px 0 0 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.results h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.result p {
+	font-size: 10px;
+}
+.services {
+	padding: 20px 0;
+}
+.we-do {
+    text-align: center;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+.we-do h2 {
+    font-weight: bold;
+}
+.block1 {
+    text-align: center;
+    line-height: 1.5;
+    border-bottom: 1px solid lightgray;
+    padding: 20px 0;
+}
+.block2 {
+	text-align: center;
+    line-height: 1.5;
+    padding: 20px 0;
+}
+.block1 p, 
+.block2 p {
+	font-size: 11px;
+	line-height: 1.7;
+	color: #333;
+	padding-top: 10px;
+}
+.block1 a, 
+.block2 a {
+    line-height: 2.0;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+}
+.block1 a:hover {
+	color: #3aa7e8;
+}
+.block2 a:hover {
+	color: #3aa7e8;
+}
+.team {
+	background-color: #f9f7f9;
+	padding: 20px 0;
+}
+.meet-our {
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+.meet-our h2 {
+	font-weight: bold;
+}
+.block3 {
+	text-align: center;
+	padding-left: 20px;
+}
+.block3 h3 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.block3 p {
+	font-size: 12px;
+}
+.our-shop {
+	margin: 20px 0;
+}
+.block5, 
+.sub-block5 {
+	text-align: center;
+	margin-top: 10px;
+}
+.block4, 
+.sub-block4 {
+    text-align: center;
+    background: #f9f7f9;
+}
+.block4 img {
+	padding-bottom: 87px;
+}
+.discount {
+    padding: 10px 0;
+    text-align: right;
+}
+.discounti {
+	padding: 10px 0;
+	text-align: right;
+}
+.discount p, 
+.discounti p {
+	padding: 5px 10px;
+	background: #fff;
+	display: inline-block;
+	margin: 5px;
+}
+.discounti span.glyphicon.glyphicon-heart-empty {
+    float: left;
+    padding: 10px 10px;
+}
+.line {
+	text-decoration: line-through;
+	display: inline-block;
+	padding-right: 10px;
+}
+.no-line {
+	color: #3aa7e8;
+}
+.envelope {
+	padding-top: 21px;
+}
+h3.file {
+	padding-top: 35px;
+}
+.butto1 {
+	background: #3aa7e8;
+	border: #3aa7e8;
+	color: #fff;
+	border-radius: 20px;
+	font-weight: bold;
+	padding: 10px 15px;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.butto1:hover {
+	border: 1px solid #fff;
+	color: #fff;
+}
+.client-say {
+	background: url(../img/roading.jpg) no-repeat;
+	position: relative;
+	width: 100%;
+	height: 450px;
+}
+.say {
+	position: absolute;
+	text-align: center;
+	color: #fff;
+	margin-left: 50px;
+}
+.client {
+	color: #fff;
+	text-transform: uppercase;
+	padding: 20px 0;
+	text-align: center;
+}
+.client h2, .
+.news h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+.block6 {
+	line-height: 1.8;
+}
+.block6 p {
+	padding: 10px 0;
+	font-size: 12px;
+}
+.block6 h5, 
+.founder {
+	text-transform: uppercase;
+}
+.block6 h5 {
+	font-weight: bold;
+}
+.founder {	
+	font-weight: normal;
+}
+.lates-news {
+	margin: 30px 0;
+}
+.news {
+	text-transform: uppercase;
+	padding: 20px 0;
+	text-align: center;
+	font-weight: bold;
+}
+p.date {
+    padding-top: 10px;
+    color: #2a6496;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.block7 a {
+	color: #333;
+	text-transform: capitalize;
+	font-stretch: 10px;
+}
+.block7 h4 {
+	font-weight: bold;
+}
+a.rig {
+    padding-right: 10px;
+}
+.block7 p {
+	padding-top: 8px;
+	line-height: 1.7;
+}
+a.read {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+a.read:hover{
+	color: #2a6496;
+}
+.footer {
+	background: #1c1c1c;
+}
+.footer h4 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-transform: uppercase;
+}
+.tallin {
+	font-family: 'Frank Ruhl Libre', sans-serif;
+}
+.sub-footer {
+    padding: 20px 0;
+}
+.block8 span {
+    font-size: 10px;
+}
+.block8 a {
+	line-height: 2.0;
+}
+.social-network {
+	padding-top: 20px;
+}
+.social-network img {
+	padding-right: 10px;
+}
+.block9 {
+    line-height: 3.0;
+}
+.block9 a {
+	color: #777;
+}
+.block9 a:hover {
+	color: #fff;
+}
+.block10 p {
+    color: #777;
+    line-height: 1.7;
+    padding-top: 12px;
+}
+.block10 span {
+    color: #2a6496;
+}
+.control-group {
+    margin-top: 15px;
+}
+input#inputEmail, 
+input#inputPassword, 
+textarea.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    padding: 10px 0;
+}
+.butto2 {
+	background: #3aa7e8;
+	border: #3aa7e8;
+	color: #fff;
+	border-radius: 20px;
+	font-weight: bold;
+	padding: 8px 30px;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.butto1:hover {
+	border: 1px solid #fff;
+	color: #fff;
+}
+.sub-footer {
+	border-bottom: 1px solid;
+}
+.block12 {
+    text-align: center;
+    padding: 30px 0 20px 0;
+}
+.block12 a {
+	color: #777;
+}
